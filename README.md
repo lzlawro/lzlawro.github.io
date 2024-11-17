@@ -1,2 +1,2 @@
-# lzlawro.github.io
+# Portfolio
 Personal website using Github Pages
